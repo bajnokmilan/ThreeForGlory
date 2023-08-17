@@ -30,3 +30,23 @@ h1,h2,h3,h4,h5,h6{
     height: 8em;
     width: auto;
 }   
+body {
+    background-color: #aa7927;
+    background-image: radial-gradient( circle, rgba(  0, 0, 0, 0 ) 0%, #554323 100% );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ .feher{
+    color: white;
+ }
+.COLORS{
+    background-color: 
+    #554323
+    #bd9d56
+    #aa7927
+    #000000
+    #ffffff
+    ;
+}

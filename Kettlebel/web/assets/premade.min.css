@@ -120,39 +120,40 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-primary {
-    background-color: #ee0979;
-    border-color: #ee0979;
+    background-color:  #554323;
+    border-color: black;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #bd0760 ;
-    border-color: #bd0760 ;
+    background-color:  #554323 ;
+    border-color:  black;
 }
 
 .btn-primary:focus {
-    box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+    box-shadow: 0 0 0 0.2rem  #554323;
+    border: black;
 }
 
 .btn-secondary {
-    background-color: #ff6a00;
-    border-color: #ff6a00;
+    background-color:  #554323;
+    border-color: black;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-    background-color: #cc5500 ;
-    border-color: #cc5500 ;
+    background-color:  #554323 ;
+    border-color:  black ;
 }
 
 .btn-secondary:focus {
-    box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+    box-shadow: 0 0 0 0.2rem  #554323;
+    border: black;
 }
 
 
 
 
 section.pricing {
-    background: #007bff;
-    background: linear-gradient(to right, orange, yellow)
+    background:  #554323;
 }
 
 .pricing .card {
