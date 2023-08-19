@@ -93,3 +93,12 @@ form button{
     margin: 20px auto 0;
     border-radius: 30px;
 }
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-track{
+    background: #bd9d56;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(#554323, #aa7927);
+}
