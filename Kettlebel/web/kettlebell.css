@@ -4,6 +4,20 @@
 }
 body{
     font-family: 'Poppins';
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    
+    opacity: 0;
+    transition: opacity 2s;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -27,7 +41,8 @@ h1,h2,h3,h4,h5,h6{
     margin-top: 3em;
 }
 .navlion{
-    height: 8em;
+    margin-left: -1rem;
+    height: 4em;
     width: auto;
 }   
 body {
@@ -101,4 +116,31 @@ form button{
 }
 ::-webkit-scrollbar-thumb{
     background: linear-gradient(#554323, #aa7927);
+}
+.szerep{
+    font-size: 2rem;
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
+    color: #bd9d56;
+}
+.szerep2{
+    font-size: 1.2rem;
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
+    color: #bd9d56;
+}
+p{
+    font-size: 1.2rem;
+}
+.keret{
+    background: #aa7927;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 3rem;
+}
+.display{
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
 }
