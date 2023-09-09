@@ -332,7 +332,7 @@ a {
 /* twitter*/
 .containerTwo:hover {
   background: rgb(153,28,67);
-background: linear-gradient(238deg, rgba(153,28,67,1) 23%, rgba(19,19,19,1) 86%);
+background: #d44638;
   transition-duration: .3s;
 }
 /* linkdin*/
@@ -342,7 +342,7 @@ background: linear-gradient(238deg, rgba(153,28,67,1) 23%, rgba(19,19,19,1) 86%)
 }
 /* Whatsapp*/
 .containerFour:hover {
-  background-color: #FF0000;
+  background-color: #4267B2;
   transition-duration: .3s;
 }
 
