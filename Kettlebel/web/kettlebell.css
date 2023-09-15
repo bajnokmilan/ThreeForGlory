@@ -747,11 +747,11 @@ background: #d44638;
   position: relative;
 }
 .card0c {
-  background: url("https://i.pinimg.com/736x/8f/a0/51/8fa051251f5ac2d0b756027089fbffde--terry-o-neill-al-pacino.jpg") center center no-repeat;
+  background: url("assets/kepek/glorius_.png") center center no-repeat;
   background-size: 300px;
 }
 .card0c:hover {
-  background: url("https://i.pinimg.com/736x/8f/a0/51/8fa051251f5ac2d0b756027089fbffde--terry-o-neill-al-pacino.jpg") left center no-repeat;
+  background: url("assets/kepek/glorius_.png") left center no-repeat;
   background-size: 600px;
 }
 .card0c:hover h2 {
@@ -761,11 +761,11 @@ background: #d44638;
   opacity: 1;
 }
 .card1c {
-  background: url("https://i.pinimg.com/originals/28/d2/e6/28d2e684e7859a0dd17fbd0cea00f8a9.jpg") center center no-repeat;
+  background: url("assets/kepek/Fejben\ az\ erő_.png") center center no-repeat;
   background-size: 300px;
 }
 .card1c:hover {
-  background: url("https://i.pinimg.com/originals/28/d2/e6/28d2e684e7859a0dd17fbd0cea00f8a9.jpg") left center no-repeat;
+  background: url("assets/kepek/Fejben\ az\ erő_.png") left center no-repeat;
   background-size: 600px;
 }
 .card1c:hover h2 {
@@ -775,11 +775,11 @@ background: #d44638;
   opacity: 1;
 }
 .card2c {
-  background: url("https://i.pinimg.com/originals/ee/85/08/ee850842e68cfcf6e3943c048f45c6d1.jpg") center center no-repeat;
+  background: url("assets/kepek/discord_.png") center center no-repeat;
   background-size: 300px;
 }
 .card2c:hover {
-  background: url("https://i.pinimg.com/originals/ee/85/08/ee850842e68cfcf6e3943c048f45c6d1.jpg") left center no-repeat;
+  background: url("assets/kepek/discord_.png") left center no-repeat;
   background-size: 600px;
 }
 .card2c:hover h2 {
